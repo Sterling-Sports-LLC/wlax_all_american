@@ -1,0 +1,348 @@
+{
+    "year": 2022,
+    "division": "D2",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Kara Antonucci",
+                "team": "University of Indianapolis",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Molly Bursinger",
+                "team": "Grand Valley State University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Caroline Gastonguay",
+                "team": "Rollins College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Grace Guglielmo",
+                "team": "Queens University of Charlotte",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Eleanor Kast",
+                "team": "Lindenwood University",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Abigail Lagos",
+                "team": "University of Indianapolis",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Gianna Leduc",
+                "team": "East Stroudsburg University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emily Mitarotonda",
+                "team": "East Stroudsburg University",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "MeKayla Montgomery",
+                "team": "University of Indianapolis",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kyleigh Peoples",
+                "team": "Regis University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kayleigh Pokrivka",
+                "team": "East Stroudsburg University",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Angelina Porcello",
+                "team": "Pace University",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Taylor Reich",
+                "team": "Le Moyne College",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Peyton Romig",
+                "team": "University of Indianapolis",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Lydia Rudden",
+                "team": "Stonehill College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emma Sullivan",
+                "team": "Stonehill College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse First Team"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Keri Barnett",
+                "team": "West Chester University",
+                "class": "Freshman",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kailey Broderick",
+                "team": "Adelphi University",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Victoria Butler",
+                "team": "Stonehill College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Sophia Conroy",
+                "team": "Grand Valley State University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Bridget Considine",
+                "team": "Lindenwood University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kayla Conway",
+                "team": "Pace University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Madeline Garvalosa",
+                "team": "Mercy College",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Abby Hammond",
+                "team": "Florida Southern College",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Rebecca Kinsley",
+                "team": "Queens University of Charlotte",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Leah Knowles",
+                "team": "Wingate University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lizzy Lynch",
+                "team": "Florida Southern College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kyleigh Masteran",
+                "team": "Queens University of Charlotte",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Christina McCabe",
+                "team": "Adelphi University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Elizabeth Ninesling",
+                "team": "Embry-Riddle Aeronautical University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Hannah Stanislawczyk",
+                "team": "West Chester University",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Danielle Waters",
+                "team": "University of Tampa",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Second Team"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Madison Bell",
+                "team": "Roberts Wesleyan College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sydney Bracken",
+                "team": "Queens University of Charlotte",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Aryn Dorr",
+                "team": "Catawba College",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Kiki Fitzpatrick",
+                "team": "East Stroudsburg University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Grace Frasso",
+                "team": "West Chester University",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Isabelle Grant",
+                "team": "Adelphi University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sydney Hill",
+                "team": "Lynn University",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Leigha Johnson",
+                "team": "Grand Valley State University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Cassidy King",
+                "team": "University of Indianapolis",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Makayla Kintner",
+                "team": "Seton Hill University",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sarah Klein",
+                "team": "University of Indianapolis",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Hannah Krats",
+                "team": "Regis University",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Murphy McDonough",
+                "team": "Embry-Riddle Aeronautical University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sydney Meagher",
+                "team": "Le Moyne College",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Jessica Meneilly",
+                "team": "Le Moyne College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Maggie Sell",
+                "team": "East Stroudsburg University",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2022 All-American Women's Lacrosse Third Team"
+            }
+        ]
+    }
+}

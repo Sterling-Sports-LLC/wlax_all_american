@@ -1,0 +1,197 @@
+Unique Schools:
+Adelphi University
+Amherst College
+Assumption College
+Assumption University
+Augustana College
+Babson College
+Bates College
+Bentley University
+Boston College
+Bowdoin College
+Canisius College
+Capital University
+Catawba College
+Catholic University of America
+Christopher Newport University
+Claremont Mudd Scripps Colleges
+Claremont-Mudd-Scripps Colleges
+Colby College
+College of Brockport
+Colorado College
+Colorado Mesa University
+Connecticut College
+Cornell University
+Dartmouth College
+Denison University
+Dickinson College
+Dominican University New York
+Dowling College
+Drexel University
+Duke University
+East Stroudsburg University
+Embry-Riddle Aeronautical University
+Endicott College
+FDU-Florham
+Fairleigh Dickinson University, Florham
+Flagler College
+Florida Institute of Technology
+Florida Southern College
+Franklin & Marshall College
+Franklin Pierce University
+Franklin and Marshall College
+Georgetown University
+Gettysburg College
+Grand Valley State University
+Hamilton College
+Haverford College
+Hofstra University
+Indiana University of PA
+Indiana University of Pennsylvania
+Ithaca College
+James Madison University
+John Carroll University
+Johns Hopkins University
+Kenyon College
+Kutztown University
+LIU Post
+Le Moyne College
+LeMoyne College
+Lebanon Valley College
+Lehigh University
+Lenoir-Rhyne University
+Limestone College
+Limestone University
+Lindenwood University
+Lock Haven University
+Long Island University Post
+Loyola University
+Loyola University Maryland
+Lynn University
+Marquette University
+Maryville University
+Massachusetts Institute of Technology
+McKendree University
+Mercy College
+Mercy University
+Mercyhurst College
+Mercyhurst University
+Meredith College
+Merrimack College
+Messiah College
+Messiah University
+Middlebury College
+Montclair State University
+Nazareth College
+New York Inst. of Technology
+New York Institute of Technology
+Northwestern University
+Oswego State
+Pace University
+Pennsylvania State University
+Pomona College
+Pomona-Pitzer Colleges
+Princeton University
+Queens University of Charlotte
+Regis University
+Rhodes College
+Roanoke College
+Roberts Wesleyan College
+Roberts Wesleyan University
+Roger Williams University
+Rollins College
+Rowan University
+Rutgers University
+SUNY Cortland
+SUNY Fredonia
+SUNY Geneseo
+Saint Leo University
+Salisbury University
+Seton Hill University
+Shenandoah University
+Skidmore College
+Slippery Rock University
+Southern New Hampshire University
+Springfield College
+St. John Fisher College
+St. John Fisher University
+St. Lawrence University
+St. Mary's College of Maryland
+Stanford University
+State University of New York at Brockport
+State University of New York at Cortland
+State University of New York at Geneseo
+Stevens Institute of Technology
+Stevenson University
+Stonehill College
+Stony Brook University
+Syracuse University
+Temple University
+The Catholic University
+The Catholic University of America
+The College of New Jersey
+The University of Tampa
+Tiffin University
+Towson University
+Trinity College
+Tufts University
+US Naval Academy
+United States Naval Academy
+University at Albany
+University of Chicago
+University of Colorado
+University of Connecticut
+University of Denver
+University of Findlay
+University of Florida
+University of Indianapolis
+University of Louisville
+University of Mary Washington
+University of Maryland
+University of Maryland, College Park
+University of Massachusetts
+University of Michigan
+University of Mount Olive
+University of New Haven
+University of North Carolina
+University of Notre Dame
+University of Pennsylvania
+University of Redlands
+University of Richmond
+University of Scranton
+University of Southern California
+University of Tampa
+University of Virginia
+Virginia Polytechnic Institute
+Virginia Tech
+Washington & Lee University
+Washington College
+Washington and Lee University
+Wesleyan University
+West Chester University
+William Smith College
+Williams College
+Wingate University
+Yale University
+York College
+York College of PA
+York College of Pennsylvania
+
+Unique Classes:
+First-Year
+Freshman
+Graduate
+Graduate Student
+Junior
+RS Junior
+RS-Senior
+RS-Sophomore
+Senior
+Sophomore
+
+Unique Positions:
+Attack
+Defense
+Goalkeeper
+Midfield
+

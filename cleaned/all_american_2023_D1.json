@@ -1,0 +1,348 @@
+{
+    "year": 2023,
+    "division": "D1",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Kasey Choma",
+                "team": "University of Notre Dame",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Erin Coykendall",
+                "team": "Northwestern University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Mairead Durkin",
+                "team": "James Madison University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Maddie Jenner",
+                "team": "Duke University",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Jenn Medjid",
+                "team": "Boston College",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emily Nalls",
+                "team": "University of North Carolina",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Isabella Peterson",
+                "team": "James Madison University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Sydney Scales",
+                "team": "Boston College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Izzy Scane",
+                "team": "Northwestern University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Belle Smith",
+                "team": "Boston College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Delaney Sweitzer",
+                "team": "Syracuse University",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Sam Thacker",
+                "team": "University of Denver",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Meaghan Tyrrell",
+                "team": "Syracuse University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emma Ward",
+                "team": "Syracuse University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Jillian Wilson",
+                "team": "Loyola University Maryland",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Jackie Wolak",
+                "team": "University of Notre Dame",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse First Team"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Meghan Ball",
+                "team": "Rutgers University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Abby Bosco",
+                "team": "University of Maryland, College Park",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Rachel Clark",
+                "team": "University of Virginia",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Mckenna Davis",
+                "team": "Boston College",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Katie Detwiler",
+                "team": "Loyola University Maryland",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Emily Heller",
+                "team": "University of Florida",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Emma LoPinto",
+                "team": "University of Florida",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Ellie Masera",
+                "team": "Stony Brook University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Ashlyn McGovern",
+                "team": "University of Virginia",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Trinity McPherson",
+                "team": "University of Denver",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Sarah Reznick",
+                "team": "University of Florida",
+                "class": "Junior",
+                "position": "Goalkeeper",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Hailey Rhatigan",
+                "team": "Northwestern University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Jill Smith",
+                "team": "University of Michigan",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Arden Tierney",
+                "team": "University of Richmond",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Cassidy Weeks",
+                "team": "Boston College",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Samantha White",
+                "team": "Northwestern University",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Second Team"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Shaylan Ahearn",
+                "team": "University of Maryland, College Park",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Madison Ahern",
+                "team": "University of Notre Dame",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Megan Carney",
+                "team": "Syracuse University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Eloise Clevenger",
+                "team": "University of Maryland, College Park",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sierra Cockerille",
+                "team": "Syracuse University",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Lindsey Frank",
+                "team": "University of Richmond",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Mackenzie Hoeg",
+                "team": "University of Virginia",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Ellie Hollin",
+                "team": "Pennsylvania State University",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Tai Jankowski",
+                "team": "James Madison University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Abby Jenkins",
+                "team": "University of Denver",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Georgia Latch",
+                "team": "Loyola University Maryland",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Alyssa Long",
+                "team": "University of North Carolina",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Rachel Matey",
+                "team": "James Madison University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Lauren Spence",
+                "team": "Loyola University Maryland",
+                "class": "Sophomore",
+                "position": "Goalkeeper",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Brooklyn Walker-Welch",
+                "team": "University of North Carolina",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Emma Wightman",
+                "team": "University of Southern California",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2023 All-American Women's Lacrosse Third Team"
+            }
+        ]
+    }
+}

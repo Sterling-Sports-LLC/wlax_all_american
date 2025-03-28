@@ -1,0 +1,1046 @@
+{
+    "year": 2016,
+    "divisions": {
+        "D1": {
+            "division": "D1",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Sammi Burgess",
+                        "team": "University of Florida",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Taylor Cummings",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ellie DeGarmo",
+                        "team": "Princeton University",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kelsey Duryea",
+                        "team": "Duke University",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Cortney Fortunato",
+                        "team": "University of Notre Dame",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Nicole Graziano",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Molly Hendrick",
+                        "team": "University of North Carolina",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Marie McCool",
+                        "team": "University of North Carolina",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Alice Mercer",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Michaela Michael",
+                        "team": "University of Southern California",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kaylin Morissette",
+                        "team": "University of Louisville",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Murphy",
+                        "team": "Stony Brook University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Barbara Sullivan",
+                        "team": "University of Notre Dame",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Tarleton",
+                        "team": "University of Southern California",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kayla Treanor",
+                        "team": "Syracuse University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Megan Whittle",
+                        "team": "University of Maryland",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Nina Corcoran",
+                        "team": "University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maddie Crutchfield",
+                        "team": "Duke University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Madison Cyr",
+                        "team": "Pennsylvania State University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Dene' DiMartino",
+                        "team": "Johns Hopkins University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Erika Eipp",
+                        "team": "University of Massachusetts",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Caroline Fitzgerald",
+                        "team": "University of Florida",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Mallory Frysinger",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maddy Lesher",
+                        "team": "Loyola University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Halle Majorana",
+                        "team": "Syracuse University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Sarah Mannelly",
+                        "team": "Boston College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Aly Messinger",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kelsey Murray",
+                        "team": "Stanford University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Shannon Nee",
+                        "team": "University of Connecticut",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kylie Ohlmiller",
+                        "team": "Stony Brook University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Zoe Stukenberg",
+                        "team": "University of Maryland",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Sammy Jo Tracy",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Taylor Bresnahan",
+                        "team": "University of Florida",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alex Condon",
+                        "team": "University of Pennsylvania",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kaleigh Craig",
+                        "team": "Northwestern University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erica Evans",
+                        "team": "Canisius College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alyssa Fleming",
+                        "team": "Stony Brook University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Nadine Hadnagy",
+                        "team": "University of Maryland",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kyra Harney",
+                        "team": "Duke University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Olivia Hompe",
+                        "team": "Princeton University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Amanda Johansen",
+                        "team": "University of Southern California",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Stephanie Lazo",
+                        "team": "Pennsylvania State University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Meg Lentz",
+                        "team": "Stanford University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Jaclyn Leto",
+                        "team": "Dartmouth College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Hannah Murphy",
+                        "team": "University of Massachusetts",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Casey Pearsall",
+                        "team": "University of Notre Dame",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Catie Smith",
+                        "team": "Cornell University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Molly Wolf",
+                        "team": "Loyola University",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D3": {
+            "division": "D3",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Samantha Blicht",
+                        "team": "Franklin & Marshall College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Vanessa Budd",
+                        "team": "Franklin & Marshall College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ashley Gentile",
+                        "team": "SUNY Cortland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Martha Griffin",
+                        "team": "Trinity College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Hannah Jeffrey",
+                        "team": "Bates College",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Tara Monaghan",
+                        "team": "SUNY Cortland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Paige Moriarty",
+                        "team": "Franklin & Marshall College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Elizabeth Morrison",
+                        "team": "The College of New Jersey",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Natalicchio",
+                        "team": "The College of New Jersey",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Gabbi Nieves",
+                        "team": "Salisbury University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kristen Ohberg",
+                        "team": "SUNY Cortland",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Laurel Pascal",
+                        "team": "Middlebury College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Rachel Passarelli",
+                        "team": "Amherst College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Caroline Ross",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ashley Stewart",
+                        "team": "Trinity College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Megan Wallenhorst",
+                        "team": "Salisbury University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Stephanie Athens",
+                        "team": "Messiah College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Brigid Bowser",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Jackie Brokaw",
+                        "team": "Colby College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Christy Forrest",
+                        "team": "Amherst College",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Meaghan Galvin",
+                        "team": "Christopher Newport University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Moriah Greenstein",
+                        "team": "Bates College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Bridget Instrum",
+                        "team": "Middlebury College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kirsten Littlefield",
+                        "team": "University of Mary Washington",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Clare Lyne",
+                        "team": "Trinity College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Claire Ludlow",
+                        "team": "Denison University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kelly O'Brien",
+                        "team": "Rowan University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Tori Poffenberger",
+                        "team": "St. Mary's College of Maryland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Brienna Reasoner",
+                        "team": "FDU-Florham",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Grace Saliba",
+                        "team": "Franklin & Marshall College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Megan Strauch",
+                        "team": "York College of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Erika Wilcox",
+                        "team": "Stevens Institute of Technology",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Alexis Bosilovic",
+                        "team": "Catholic University of America",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Delaney Carroll",
+                        "team": "Babson College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Claudia Coleates",
+                        "team": "SUNY Geneseo",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Gianna Falcone",
+                        "team": "Salisbury University",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Claire Feeney",
+                        "team": "Roanoke College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Morgan Fletcher",
+                        "team": "Hamilton College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Mia Haughton",
+                        "team": "Amherst College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Evie Keating",
+                        "team": "Middlebury College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Steph Kelly",
+                        "team": "Colorado College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Katie Landry",
+                        "team": "Gettysburg College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Moira Mahoney",
+                        "team": "Dickinson College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Caroline McCarthy",
+                        "team": "Hamilton College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ally McLaughlin",
+                        "team": "Pomona College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Mary O'Connell",
+                        "team": "Middlebury College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Rachel Talanian",
+                        "team": "Skidmore College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Emily Tropsa",
+                        "team": "Gettysburg College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D2": {
+            "division": "D2",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Erin Abbott",
+                        "team": "Lindenwood University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Gabby Barowski",
+                        "team": "Florida Southern College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jordyn Constance",
+                        "team": "Lindenwood University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emily Delaney",
+                        "team": "LIU Post",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Corinne Fisher",
+                        "team": "University of New Haven",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Erica Geremia",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Vicki Graveline",
+                        "team": "Le Moyne College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jacqueline Jahelka",
+                        "team": "Adelphi University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Olivia Kirk",
+                        "team": "LIU Post",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Rachel O'Brien",
+                        "team": "Adelphi University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Meghan O'Brien",
+                        "team": "Florida Southern College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Honey Roche",
+                        "team": "LIU Post",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emily Santoli",
+                        "team": "Florida Southern College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Brittany Smith",
+                        "team": "LIU Post",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ryley Weber",
+                        "team": "Adelphi University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Amy Weinberg",
+                        "team": "Indiana University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Kristin Anderson",
+                        "team": "Mercyhurst College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kris Coppolino",
+                        "team": "Rollins College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Cara Corvino",
+                        "team": "Stonehill College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Cara Douglas",
+                        "team": "LIU Post",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Fagan",
+                        "team": "Seton Hill University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Ines Flueck",
+                        "team": "Lenoir-Rhyne University",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Brenna Gallagher",
+                        "team": "Indiana University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Sarah Lankton",
+                        "team": "University of Findlay",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Allie Modica",
+                        "team": "Florida Institute of Technology",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maggie Monnat",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Erika Neumen",
+                        "team": "Grand Valley State University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Ashley Pyle",
+                        "team": "West Chester University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Jessica Riggall",
+                        "team": "Limestone College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Camille Rosellini",
+                        "team": "Adelphi University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Roussel",
+                        "team": "Tiffin University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Michele Scannell",
+                        "team": "Adelphi University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Alexa Bedell",
+                        "team": "Southern New Hampshire University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Rachel Benzing",
+                        "team": "Lindenwood University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Connor Bird",
+                        "team": "LIU Post",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sophie Buelow",
+                        "team": "Lindenwood University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Taylor Cline",
+                        "team": "Limestone College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kallie German",
+                        "team": "Rollins College",
+                        "class": "Freshman",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Rachael Griffith",
+                        "team": "Florida Southern College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Maddie Hendren",
+                        "team": "Rollins College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Katie Meinecke",
+                        "team": "Dowling College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Allie Merrill",
+                        "team": "Dowling College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Lauren Ochs",
+                        "team": "Bentley University",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Mal Olin",
+                        "team": "Rollins College",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erin Smith",
+                        "team": "Dowling College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Claire Wigler",
+                        "team": "University of Mount Olive",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kristin Wilder",
+                        "team": "Southern New Hampshire University",
+                        "class": "Freshman",
+                        "position": "Attack",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Caitlin Wojichowski",
+                        "team": "Grand Valley State University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2016 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        }
+    }
+}

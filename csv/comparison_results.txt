@@ -1,0 +1,1 @@
+All schools in all_american_school.txt are accounted for in school_mapping.csv.

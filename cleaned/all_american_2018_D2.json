@@ -1,0 +1,348 @@
+{
+    "year": 2018,
+    "division": "D2",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Sophie Buelow",
+                "team": "Lindenwood University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Cammy Case",
+                "team": "Queens University of Charlotte",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Bryanna Fazio",
+                "team": "Le Moyne College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kelly Gaffney",
+                "team": "Le Moyne College",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Hannah George",
+                "team": "Le Moyne College",
+                "class": "Sophomore",
+                "position": "Goalkeeper",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kallie German",
+                "team": "Rollins College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Hunter Isnardi",
+                "team": "Mercy College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Alison Johnson",
+                "team": "Adelphi University",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Sam Keesey",
+                "team": "Florida Southern College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Krista Mitarotonda",
+                "team": "East Stroudsburg University",
+                "class": "Freshman",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Meghan O'Brien",
+                "team": "Florida Southern College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kole Pollock",
+                "team": "Adelphi University",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Mackenzie Reh",
+                "team": "University of New Haven",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emily Santoli",
+                "team": "Florida Southern College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Talia Stagnitta",
+                "team": "Mercy College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Maggie Stella",
+                "team": "West Chester University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse First Team"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Emily Bitka",
+                "team": "Slippery Rock University",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Jada Bonner",
+                "team": "Regis University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Dani Bursinger",
+                "team": "Florida Southern College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Allison Hurley",
+                "team": "Lindenwood University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Taylor Izzo",
+                "team": "Mercyhurst University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kira Kolb",
+                "team": "Mercyhurst University",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Alyssa Mallery",
+                "team": "Long Island University Post",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Riley McClure",
+                "team": "University of Indianapolis",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Olivia McEntee",
+                "team": "Le Moyne College",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Alyssa Milano",
+                "team": "New York Inst. of Technology",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Chessie Rahmer",
+                "team": "East Stroudsburg University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Michele Scannell",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Samantha Schiano",
+                "team": "Florida Institute of Technology",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Shannon Sisk",
+                "team": "Limestone College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kaitlyn Stackpole",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lauren Tybor",
+                "team": "Florida Institute of Technology",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Second Team"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Kristin Anderson",
+                "team": "Mercyhurst University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sami Barnett",
+                "team": "West Chester University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Nicole Delany",
+                "team": "Le Moyne College",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Caroline Dunleavy",
+                "team": "Florida Institute of Technology",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Brianna Feldman",
+                "team": "Long Island University Post",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Olivia Going",
+                "team": "Florida Institute of Technology",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sara Grenier",
+                "team": "Florida Institute of Technology",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Emily Jehle",
+                "team": "Mercy College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Olivia Kirk",
+                "team": "Long Island University Post",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sarah Myres",
+                "team": "Regis University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Rachel Ortell",
+                "team": "Lindenwood University",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Beth Ann Pierce",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Morgan Reader",
+                "team": "Lindenwood University",
+                "class": "Redshirt Sophomore",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Emma Rufolo",
+                "team": "East Stroudsburg University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Lindsay Van Beck",
+                "team": "Rollins College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Alyssa Voccia",
+                "team": "Limestone College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2018 All-American Women's Lacrosse Third Team"
+            }
+        ]
+    }
+}

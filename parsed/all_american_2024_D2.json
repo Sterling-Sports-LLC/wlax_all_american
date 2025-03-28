@@ -1,0 +1,300 @@
+{
+    "year": 2024,
+    "division": "D2",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Cece Colombo",
+                "team": "University of Tampa",
+                "class": "Graduate",
+                "position": "Midfield"
+            },
+            {
+                "name": "Grace Frasso",
+                "team": "West Chester University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Caroline Gastonguay",
+                "team": "Rollins College",
+                "class": "Graduate",
+                "position": "Attack"
+            },
+            {
+                "name": "Maeve Johnson",
+                "team": "Bentley University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Danielle Marino",
+                "team": "Adelphi University",
+                "class": "Graduate",
+                "position": "Attack"
+            },
+            {
+                "name": "Kelly -Ann McGrath",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Emily Mitarotonda",
+                "team": "East Stroudsburg University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Angelina Porcello",
+                "team": "Pace University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Alexandra Quinn",
+                "team": "Pace University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Alyssa Romano",
+                "team": "University of Tampa",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Lindsey Shimborske",
+                "team": "Mercy University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Abby Simonetti",
+                "team": "East Stroudsburg University",
+                "class": "Junior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Ronnie Skorcz",
+                "team": "Maryville University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Hannah Stanislawczyk",
+                "team": "West Chester University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jackie Stoller",
+                "team": "Florida Southern College",
+                "class": "Graduate",
+                "position": "Attack"
+            },
+            {
+                "name": "Sydney Tiemann",
+                "team": "Maryville University",
+                "class": "Senior",
+                "position": "Attack"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Aislynn Alkire",
+                "team": "Grand Valley State University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Olivia Bladon",
+                "team": "University of Indianapolis",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Cyrose Conteh",
+                "team": "Kutztown University",
+                "class": "Graduate",
+                "position": "Defense"
+            },
+            {
+                "name": "Delilah Doyle",
+                "team": "Pace University",
+                "class": "Graduate",
+                "position": "Defense"
+            },
+            {
+                "name": "Megan Dunn",
+                "team": "University of Indianapolis",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Sam Graf",
+                "team": "Kutztown University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kerrin Heuser",
+                "team": "Adelphi University",
+                "class": "Graduate",
+                "position": "Midfield"
+            },
+            {
+                "name": "Makayla Kintner",
+                "team": "Seton Hill University",
+                "class": "Graduate",
+                "position": "Defense"
+            },
+            {
+                "name": "Leah Knowles",
+                "team": "Wingate University",
+                "class": "Graduate",
+                "position": "Midfield"
+            },
+            {
+                "name": "Julia Littlewood",
+                "team": "West Chester University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Abby McFerren",
+                "team": "Florida Southern College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Sydney Stone",
+                "team": "Grand Valley State University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Samantha Tanguay",
+                "team": "Pace University",
+                "class": "Sophomore",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Madison Tare",
+                "team": "Florida Southern College",
+                "class": "Graduate",
+                "position": "Attack"
+            },
+            {
+                "name": "Alex Walling",
+                "team": "University of Tampa",
+                "class": "Graduate",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Mackenzie Winn",
+                "team": "University of Indianapolis",
+                "class": "Senior",
+                "position": "Attack"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Emma Blumenstock",
+                "team": "Roberts Wesleyan University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Kaylyn Cater",
+                "team": "Grand Valley State University",
+                "class": "Junior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Maddy Champagne",
+                "team": "Grand Valley State University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Kendall DiCamillo",
+                "team": "West Chester University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Eliana Enners",
+                "team": "Embry-Riddle Aeronautical University",
+                "class": "Freshman",
+                "position": "Midfield"
+            },
+            {
+                "name": "Lily Ferguson",
+                "team": "Regis University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jessica Gorr",
+                "team": "West Chester University",
+                "class": "Graduate",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Sarah Hinkle",
+                "team": "University of Tampa",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Kristyn Johnson",
+                "team": "Lynn University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Skylar Orlowski",
+                "team": "Seton Hill University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Fiona Rafferty",
+                "team": "Adelphi University",
+                "class": "Graduate",
+                "position": "Defense"
+            },
+            {
+                "name": "Katie Schenk",
+                "team": "University of New Haven",
+                "class": "Graduate",
+                "position": "Midfield"
+            },
+            {
+                "name": "Bailey Stumpf",
+                "team": "Limestone University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Carley Tepel",
+                "team": "Flagler College",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Bailey Truex",
+                "team": "Regis University",
+                "class": "Graduate",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kelsey Viger",
+                "team": "Colorado Mesa University",
+                "class": "Graduate",
+                "position": "Defense"
+            }
+        ]
+    }
+}

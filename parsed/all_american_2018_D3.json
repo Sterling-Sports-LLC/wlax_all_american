@@ -1,0 +1,354 @@
+{
+    "year": 2018,
+    "division": "D3",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Dakota Adamec",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Kyra Bednarski",
+                "team": "Stevens Institute of Technology",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Miranda Chrone",
+                "team": "The College of New Jersey",
+                "class": "Junior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Nicole Clauter",
+                "team": "York College of PA",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Kiley Coffey",
+                "team": "Trinity College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Steph Colson",
+                "team": "Gettysburg College",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Hailey Dobbins",
+                "team": "SUNY Cortland",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Zoe Ferguson",
+                "team": "Trinity College",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Meghan Fox",
+                "team": "York College of PA",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Allie Hynson",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Evie Keating",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Kirsten Littlefield",
+                "team": "University of Mary Washington",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Emma McDonagh",
+                "team": "Middlebury College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Lexie Meager",
+                "team": "SUNY Cortland",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Paige Moriarty",
+                "team": "Franklin and Marshall College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Elizabeth Morrison",
+                "team": "The College of New Jersey",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Krissy Murphy",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Hollis Perticone",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Sabrina Solow",
+                "team": "Amherst College",
+                "class": "Junior",
+                "position": "Defense"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Allie Barrett",
+                "team": "Trinity College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Olivia Cleale",
+                "team": "The College of New Jersey",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Julia Crerend",
+                "team": "Amherst College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Erin Dugan",
+                "team": "Catholic University of America",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Gianna Falcone",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Maggie Hanzsche",
+                "team": "Franklin and Marshall College",
+                "class": "Sophomore",
+                "position": "Defense"
+            },
+            {
+                "name": "Kendra Herbenar",
+                "team": "Messiah College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Hannah Hirschfeld",
+                "team": "Bowdoin College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Abby Horst",
+                "team": "Wesleyan University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kathleen Jaeger",
+                "team": "The College of New Jersey",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Steph Kelly",
+                "team": "Colorado College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Molly Long",
+                "team": "Ithaca College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Mackenzie Maguire",
+                "team": "University of Mary Washington",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Melissa Moore",
+                "team": "William Smith College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Evan Murphy",
+                "team": "Claremont Mudd Scripps Colleges",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Maia Noyes",
+                "team": "Amherst College",
+                "class": "Freshman",
+                "position": "Midfield"
+            },
+            {
+                "name": "Allie Panara",
+                "team": "Ithaca College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Caroline Sgaglione",
+                "team": "Wesleyan University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Courtney Wagner",
+                "team": "Messiah College",
+                "class": "Junior",
+                "position": "Attack"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Maddie Bray",
+                "team": "Rowan University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Jackie Brokaw",
+                "team": "Colby College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Georgia Carroll",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Jess Castelo",
+                "team": "Washington & Lee University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Kendall Cunningham",
+                "team": "Rhodes College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Eliza Denious",
+                "team": "Bowdoin College",
+                "class": "Freshman",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jane Goodspeed",
+                "team": "Denison University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Taylor Gretz",
+                "team": "Rowan University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Danielle Harrington",
+                "team": "Franklin and Marshall College",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Holly Hite",
+                "team": "Meredith College",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Devin Hursey",
+                "team": "York College of PA",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Martha Hutzell",
+                "team": "Salisbury University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Leah Israel",
+                "team": "Denison University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Katie Landry",
+                "team": "Gettysburg College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Mekayla Montgomery",
+                "team": "William Smith College",
+                "class": "Sophomore",
+                "position": "Defense"
+            },
+            {
+                "name": "Madison Schutz",
+                "team": "Washington College",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Teresa Shattuck",
+                "team": "Oswego State",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Annie Sullivan",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Hedy Veith",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Defense"
+            }
+        ]
+    }
+}

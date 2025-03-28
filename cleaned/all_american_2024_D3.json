@@ -1,0 +1,411 @@
+{
+    "year": 2024,
+    "division": "D3",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Laura Baine",
+                "team": "Wesleyan University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Jordan Basso",
+                "team": "Gettysburg College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Margie Carden",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Madeline Delaney",
+                "team": "Tufts University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Isabelle Dintino",
+                "team": "Franklin & Marshall College",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Isabella Garabo",
+                "team": "York College of PA",
+                "class": "Graduate Student",
+                "position": "Goalkeeper",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Natalie Held",
+                "team": "Salisbury University",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Meghan Lane",
+                "team": "Hamilton College",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Maddie Montgomery",
+                "team": "William Smith College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Lauren Pittman",
+                "team": "Franklin & Marshall College",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Eugenie Rovegno",
+                "team": "Washington and Lee University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Susan Rowley",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Hope Shue",
+                "team": "Middlebury College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kiara Tangney",
+                "team": "Wesleyan University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Ally Tobler",
+                "team": "The College of New Jersey",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Leah Vilov",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kylie Wilson",
+                "team": "Middlebury College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Kelsey Winters",
+                "team": "Christopher Newport University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Caroline Wise",
+                "team": "Ithaca College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse First Team"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Hanna Bishop",
+                "team": "Washington and Lee University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lydia Cassilly",
+                "team": "Franklin & Marshall College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Anna Costello",
+                "team": "Babson College",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Natalie Daniels",
+                "team": "William Smith College",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kathryn Fernandopulle",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Mary Hanzsche",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Kendall Havill",
+                "team": "Colorado College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Julia Iapicca",
+                "team": "Christopher Newport University",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Julia Jardina",
+                "team": "Colby College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Olivia Lai",
+                "team": "Wesleyan University",
+                "class": "Graduate Student",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lane Lambeth",
+                "team": "Franklin & Marshall College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Ella Lesperance",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lily Macatee",
+                "team": "Gettysburg College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Grace Osborn",
+                "team": "Capital University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Rachel Rubenstein",
+                "team": "The Catholic University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Caroline Sullivan",
+                "team": "Gettysburg College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Ashley Thomas",
+                "team": "Massachusetts Institute of Technology",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Maizy Veitch",
+                "team": "Ithaca College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Izzy Weintraub",
+                "team": "Wesleyan University",
+                "class": "Sophomore",
+                "position": "Goalkeeper",
+                "award": "2024 All-American Women's Lacrosse Second Team"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Caroline Adams",
+                "team": "Middlebury College",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sydney Carpenter",
+                "team": "St. John Fisher University",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Toni Cashman",
+                "team": "SUNY Cortland",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Sarah Christensen",
+                "team": "York College of PA",
+                "class": "Graduate Student",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Clare Connolly",
+                "team": "Babson College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Mary Daniel",
+                "team": "Denison University",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Lulu Hardy",
+                "team": "University of Chicago",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Olivia Kazanjian",
+                "team": "Skidmore College",
+                "class": "Senior",
+                "position": "Goalkeeper",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Grace Koutouzis",
+                "team": "Roanoke College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Grace Lane",
+                "team": "University of Scranton",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Josie Lucchesi",
+                "team": "Denison University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Allie McGinty",
+                "team": "William Smith College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Walker McKnight",
+                "team": "Washington and Lee University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Kat Munter",
+                "team": "Colby College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Devon Ortman",
+                "team": "Colorado College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Stefanie Sellitto",
+                "team": "Stevens Institute of Technology",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Carly Sullivan",
+                "team": "Pomona-Pitzer Colleges",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Lauren Sullivan",
+                "team": "Stevens Institute of Technology",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Kara Yarusso",
+                "team": "Stevenson University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2024 All-American Women's Lacrosse Third Team"
+            }
+        ]
+    }
+}

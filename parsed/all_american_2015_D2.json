@@ -1,0 +1,276 @@
+{
+    "year": 2015,
+    "division": "D2",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Brittany Ast",
+                "team": "University of New Haven",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Chrissy Baffuto",
+                "team": "Lock Haven University",
+                "class": "Junior Redshirt",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Gabrielle Barowski",
+                "team": "Florida Southern College",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Kathryn Campbell",
+                "team": "University of New Haven",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jenna Dingler",
+                "team": "Lock Haven University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Alexa Froccaro",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Erica Geremia",
+                "team": "LeMoyne College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Rebecca Himes",
+                "team": "Mercyhurst University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Bailey Knapton",
+                "team": "Lindenwood University",
+                "class": "Graduate Student",
+                "position": "Defense"
+            },
+            {
+                "name": "Sam McCarrick",
+                "team": "Limestone College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Melissa Menchella",
+                "team": "Lindenwood University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Felicia Mills",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jessica Pandolf",
+                "team": "Lock Haven University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Tyler Thomas",
+                "team": "Rollins College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Ryley Weber",
+                "team": "Adelphi University",
+                "class": "Sophomore",
+                "position": "Defense"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Jackie Andersen",
+                "team": "Dowling College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Caitlin Chase",
+                "team": "Florida Southern College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Emily Delaney",
+                "team": "Long Island University Post",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Victoria Graveline",
+                "team": "LeMoyne College",
+                "class": "Sophomore",
+                "position": "Defense"
+            },
+            {
+                "name": "Kelly Hamilton",
+                "team": "Lock Haven University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Emily Hanifan",
+                "team": "Long Island University Post",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Danielle Jaycox",
+                "team": "Adelphi University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Elizabeth Lane",
+                "team": "Stonehill College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Molly Marbut",
+                "team": "LeMoyne College",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Maggie Monnat",
+                "team": "LeMoyne College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Rachel O'Brien",
+                "team": "Adelphi University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Jenna Pierro",
+                "team": "Long Island University Post",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Amari Pollard",
+                "team": "LeMoyne College",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jessica Riggall",
+                "team": "Limestone College",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Emma Simmers",
+                "team": "Seton Hill University",
+                "class": "Senior",
+                "position": "Midfield"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Courtney Ackland",
+                "team": "University of New Haven",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Ashley Armstrong",
+                "team": "Stonehill College",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Connor Bird",
+                "team": "Long Island University Post",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Shannon Bissnette",
+                "team": "Lock Haven University",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Jessica Bombard",
+                "team": "Tiffin University",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Jordyn Constance",
+                "team": "Lindenwood University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kristina Coppolino",
+                "team": "Rollins College",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Lauren Donovan",
+                "team": "Lenoir-Rhyne University",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Sarah Lankton",
+                "team": "University of Findlay",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kali Maxwell",
+                "team": "Long Island University Post",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Alyssa Neumen",
+                "team": "Grand Valley State University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Chelsea Pinneke",
+                "team": "Rollins College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Camille Rosellini",
+                "team": "Adelphi University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Amy Weinberg",
+                "team": "Indiana University of PA",
+                "class": "Junior",
+                "position": "Attack"
+            }
+        ]
+    }
+}

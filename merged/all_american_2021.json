@@ -1,0 +1,1109 @@
+{
+    "year": 2021,
+    "divisions": {
+        "D1": {
+            "division": "D1",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Lizzie Colson",
+                        "team": "University of Maryland, College Park",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sarah Cooper",
+                        "team": "Syracuse University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Bridget Deehan",
+                        "team": "University of Notre Dame",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Olivia Dirks",
+                        "team": "Pennsylvania State University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Lauren Gilbert",
+                        "team": "Northwestern University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Katie Hoeg",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Shannon Kavanagh",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ally Kennedy",
+                        "team": "Stony Brook University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ally Mastroianni",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Taylor Moreno",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Charlotte North",
+                        "team": "Boston College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jamie Ortega",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Izzy Scane",
+                        "team": "Northwestern University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emma Trenchard",
+                        "team": "University of North Carolina",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Meaghan Tyrrell",
+                        "team": "Syracuse University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sydney Watson",
+                        "team": "University of Connecticut",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Ali Baiocco",
+                        "team": "Stanford University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Megan Carney",
+                        "team": "Syracuse University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kasey Choma",
+                        "team": "University of Notre Dame",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Katie Detwiler",
+                        "team": "Loyola University Maryland",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Karson Harris",
+                        "team": "Drexel University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Molly Little",
+                        "team": "University of Denver",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Lindsay McKone",
+                        "team": "Northwestern University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Taryn Ohlmiller",
+                        "team": "Stony Brook University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Paige Petty",
+                        "team": "Virginia Polytechnic Institute",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Sarah Reznick",
+                        "team": "University of Florida",
+                        "class": "Freshman",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Gabby Rosenzweig",
+                        "team": "Duke University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Livy Rosenzweig",
+                        "team": "Loyola University Maryland",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hollie Schleicher",
+                        "team": "Boston College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Belle Smith",
+                        "team": "Boston College",
+                        "class": "Freshman",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Cara Trombetta",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Cara Urbank",
+                        "team": "Boston College",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Bea Behrins",
+                        "team": "University of Denver",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Meredith Chapman",
+                        "team": "University of Virginia",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Aurora Cordingley",
+                        "team": "Johns Hopkins University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sondra Dickey",
+                        "team": "Lehigh University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Colleen Grady",
+                        "team": "Drexel University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Grace Griffin",
+                        "team": "University of Maryland, College Park",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Asa Goldstock",
+                        "team": "Syracuse University",
+                        "class": "Graduate Student",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Grace Haus",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Maddie Jenner",
+                        "team": "Duke University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Hannah Leubecker",
+                        "team": "University of Maryland, College Park",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Jenn Medjid",
+                        "team": "Boston College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ally Palermo",
+                        "team": "Northwestern University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alyssa Parrella",
+                        "team": "Hofstra University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ella Simkins",
+                        "team": "Syracuse University",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Cassidy Spilis",
+                        "team": "Rutgers University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Courtney Taylor",
+                        "team": "Temple University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D2": {
+            "division": "D2",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Tatum Altman",
+                        "team": "West Chester University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Maliah Benedetto",
+                        "team": "Florida Southern College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jessica Berg",
+                        "team": "Regis University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Lexy Biller",
+                        "team": "Lindenwood University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Eliza Bresler",
+                        "team": "Bentley University",
+                        "class": "Graduate Student",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sydney Hussey",
+                        "team": "Queens University of Charlotte",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Marina Jozokos",
+                        "team": "Florida Southern College",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kristi Kada",
+                        "team": "Seton Hill University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Abigail Lagos",
+                        "team": "University of Indianapolis",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Raven Linton",
+                        "team": "University of New Haven",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Riley McClure",
+                        "team": "University of Indianapolis",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Olivia McEntee",
+                        "team": "Le Moyne College",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Erin McGuire",
+                        "team": "Lindenwood University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Erin McMullen",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kyleigh Peoples",
+                        "team": "Regis University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Peyton Romig",
+                        "team": "University of Indianapolis",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Trisha Baud",
+                        "team": "West Chester University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Micayla Brady",
+                        "team": "Mercy College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Lindsey Brinkel",
+                        "team": "Roberts Wesleyan College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hailey Daleo",
+                        "team": "Florida Southern College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hailey Dobbins",
+                        "team": "Lindenwood University",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Julia Foster",
+                        "team": "Limestone University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Anna Gritter",
+                        "team": "Grand Valley State University",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Grace Gunneson",
+                        "team": "University of Indianapolis",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Sydney Meagher",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Mitarotonda",
+                        "team": "East Stroudsburg University",
+                        "class": "Freshman",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Lindsay Monigle",
+                        "team": "West Chester University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Britannie Ouimet",
+                        "team": "Limestone University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Tatyana Petteway",
+                        "team": "East Stroudsburg University",
+                        "class": "Graduate Student",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kole Pollock",
+                        "team": "Adelphi University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Molly Reinhart",
+                        "team": "West Chester University",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Tomei",
+                        "team": "Roberts Wesleyan College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Kara Antonucci",
+                        "team": "University of Indianapolis",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kara Blanchard",
+                        "team": "Queens University of Charlotte",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Molly Bursinger",
+                        "team": "Grand Valley State University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Delaney Chrisco",
+                        "team": "Saint Leo University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Hana Cicerelle",
+                        "team": "East Stroudsburg University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Cece Colombo",
+                        "team": "University of Tampa",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Liz Fahey",
+                        "team": "Rollins College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Carly Fedorowski",
+                        "team": "Lindenwood University",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Elle Hamilton",
+                        "team": "Tiffin University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Cassidy King",
+                        "team": "University of Indianapolis",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Makayla Kintner",
+                        "team": "Seton Hill University",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Carlyn Mucci",
+                        "team": "Pace University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Rachel Perrett",
+                        "team": "Queens University of Charlotte",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ashley Salvett",
+                        "team": "Saint Leo University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Bailey Stumpf",
+                        "team": "Limestone University",
+                        "class": "Freshman",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ashlee Wilsynski",
+                        "team": "Saint Leo University",
+                        "class": "Freshman",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D3": {
+            "division": "D3",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Kyra Bednarski",
+                        "team": "Stevens Institute of Technology",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jenna Cholowinski",
+                        "team": "York College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Anna Clarke",
+                        "team": "Tufts University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sydney DeGirolamo",
+                        "team": "St. John Fisher College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Rachel Delate",
+                        "team": "Messiah University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Lindsay Erickson",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Charlotte Godfrey",
+                        "team": "Denison University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jacqui Hallack",
+                        "team": "Ithaca College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Carrie Hesen",
+                        "team": "Salisbury University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Erin Jaffe",
+                        "team": "The College of New Jersey",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emily Kitchin",
+                        "team": "Franklin & Marshall College",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Molly Laliberty",
+                        "team": "Tufts University",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Catherine Lawliss",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Marissa McGarrey",
+                        "team": "Franklin & Marshall College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Mekayla Montgomery",
+                        "team": "William Smith College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Indigo Pellegrini de Paur",
+                        "team": "Wesleyan University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Pierre",
+                        "team": "Hamilton College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Landon Shelley",
+                        "team": "Washington and Lee University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Alexis Strobel",
+                        "team": "Salisbury University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Catherine Arrix",
+                        "team": "Washington and Lee University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Baylee Barker",
+                        "team": "Rhodes College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Gianna Bruno",
+                        "team": "Colby College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Logan Chase",
+                        "team": "St. John Fisher College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Heather Conklin",
+                        "team": "State University of New York at Brockport",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Johanna Copeland",
+                        "team": "Wesleyan University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Brittany Costigan",
+                        "team": "Montclair State University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Riley DiFiore",
+                        "team": "York College",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hope Flack",
+                        "team": "Messiah University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Lauren Flahive",
+                        "team": "Roger Williams University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Games",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Allyn Lilien",
+                        "team": "Montclair State University",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Ally Marino",
+                        "team": "Franklin & Marshall College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kerry McKeever",
+                        "team": "Gettysburg College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Mary Pat McKenna",
+                        "team": "Franklin & Marshall College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Casey McTague",
+                        "team": "Denison University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Rachel Rosenberg",
+                        "team": "Ithaca College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Allie Schwab",
+                        "team": "Washington and Lee University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kelsey Winters",
+                        "team": "Christopher Newport University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Katrina Angelucci",
+                        "team": "Trinity College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alyson Bittinger",
+                        "team": "Shenandoah University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Anna Costello",
+                        "team": "Trinity College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Morgan Elmer",
+                        "team": "State University of New York at Brockport",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Liza Farnham",
+                        "team": "Denison University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Meghan Gorman",
+                        "team": "Montclair State University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Colleen Grombala",
+                        "team": "John Carroll University",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Stephanie Heffron",
+                        "team": "St. Mary's College of Maryland",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sara Howard",
+                        "team": "Gettysburg College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Katie Large",
+                        "team": "University of Chicago",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Hannah Lorenzen",
+                        "team": "State University of New York at Cortland",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Lydia McNulty",
+                        "team": "Salisbury University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kiki Meager",
+                        "team": "State University of New York at Cortland",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Maddie Montgomery",
+                        "team": "William Smith College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Georgia Salvatore",
+                        "team": "Babson College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kate Sarnacki",
+                        "team": "Springfield College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Emily Schum",
+                        "team": "University of Scranton",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Bri Stokes",
+                        "team": "Gettysburg College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Katie Walsh",
+                        "team": "Fairleigh Dickinson University, Florham",
+                        "class": "Freshman",
+                        "position": "Midfield",
+                        "award": "2021 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        }
+    }
+}

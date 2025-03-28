@@ -1,0 +1,334 @@
+{
+    "year": 2015,
+    "division": "D3",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Kendal Borup",
+                "team": "The College of New Jersey",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Vanessa Budd",
+                "team": "Franklin & Marshall College",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Mandy Buell",
+                "team": "Gettysburg College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Tierney Conlon",
+                "team": "Montclair State University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Ashley Gentile",
+                "team": "SUNY Cortland",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Martha Griffin",
+                "team": "Trinity College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emma Hayes-Hurley",
+                "team": "SUNY Cortland",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Hannah Jeffrey",
+                "team": "Bates College",
+                "class": "Junior",
+                "position": "Goalkeeper",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Elizabeth Morrison",
+                "team": "The College of New Jersey",
+                "class": "Freshman",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Laurel Pascal",
+                "team": "Middlebury College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Rachel Passarelli",
+                "team": "Amherst College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Katie Ritter",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Caroline Ross",
+                "team": "Tufts University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            },
+            {
+                "name": "Emily Wright",
+                "team": "Tufts University",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse First Team"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Samantha Blicht",
+                "team": "Franklin & Marshall College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Marissa Cussins",
+                "team": "SUNY Fredonia",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Alexa Dipeso",
+                "team": "Messiah College",
+                "class": "Sophomore",
+                "position": "Goalkeeper",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Cat Fowler",
+                "team": "Middlebury College",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Stephanie Garrett",
+                "team": "University of Redlands",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Colleen Hathaway",
+                "team": "College of Brockport",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Caroline Hayes",
+                "team": "Trinity College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Bridget Kenny",
+                "team": "Gettysburg College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Katie Kleine",
+                "team": "SUNY Fredonia",
+                "class": "Graduate Student",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Clare Lyne",
+                "team": "Trinity College",
+                "class": "Sophomore",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Natalie Moore",
+                "team": "Bowdoin College",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Tori Neill",
+                "team": "Catholic University of America",
+                "class": "Senior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Lindsay Picard",
+                "team": "Bowdoin College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Grace Saliba",
+                "team": "Franklin & Marshall College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Megan Wallenhorst",
+                "team": "Salisbury University",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            },
+            {
+                "name": "Erika Wilcox",
+                "team": "Stevens Institute of Technology",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Second Team"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Jenna Bussiere",
+                "team": "Montclair State University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Morgan Fletcher",
+                "team": "Hamilton College",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Moriah Greenstein",
+                "team": "Bates College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Hilary Kargl",
+                "team": "Augustana College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Bridget Malicki",
+                "team": "Williams College",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Cara Mulligan",
+                "team": "Washington & Lee University",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Kelly O'Brien",
+                "team": "Rowan University",
+                "class": "Sophomore",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Kara O'Rourke",
+                "team": "Salisbury University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Meg Raskin",
+                "team": "Connecticut College",
+                "class": "Freshman",
+                "position": "Goalkeeper",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Ally Runyon",
+                "team": "Ithaca College",
+                "class": "Junior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Ashley Stewart",
+                "team": "Trinity College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Claire Stikeleather",
+                "team": "Messiah College",
+                "class": "Junior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Megan Strauch",
+                "team": "York College",
+                "class": "Junior",
+                "position": "Defender",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Anna Stumme",
+                "team": "Catholic University of America",
+                "class": "Sophomore",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Taylor Wilson",
+                "team": "Bowdoin College",
+                "class": "Senior",
+                "position": "Midfield",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            },
+            {
+                "name": "Becca Wood",
+                "team": "Rowan University",
+                "class": "Senior",
+                "position": "Attack",
+                "award": "2015 All-American Women's Lacrosse Third Team"
+            }
+        ]
+    }
+}

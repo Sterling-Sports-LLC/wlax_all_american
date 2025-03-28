@@ -1,0 +1,300 @@
+{
+    "year": 2019,
+    "division": "D1",
+    "teams": {
+        "First Team": [
+            {
+                "name": "Andie Aldave",
+                "team": "University of Notre Dame",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Sam Apuzzo",
+                "team": "Boston College",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Dempsey Arsenault",
+                "team": "Boston College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Julia Braig",
+                "team": "University of Maryland",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Jen Giles",
+                "team": "University of Maryland",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Emily Hawryschuk",
+                "team": "Syracuse University",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Ally Kennedy",
+                "team": "Stony Brook University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kenzie Kent",
+                "team": "Boston College",
+                "class": "Graduate",
+                "position": "Attack"
+            },
+            {
+                "name": "Selena Lasota",
+                "team": "Northwestern University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Elizabeth Miller",
+                "team": "Boston College",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Sammy Mueller",
+                "team": "University of Virginia",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Jamie Ortega",
+                "team": "University of North Carolina",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Lindsey Ronbeck",
+                "team": "University of Florida",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Livy Rosenzweig",
+                "team": "Loyola University Maryland",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Megan Taylor",
+                "team": "University of Maryland",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Emma Trenchard",
+                "team": "University of North Carolina",
+                "class": "Sophomore",
+                "position": "Defense"
+            }
+        ],
+        "Second Team": [
+            {
+                "name": "Lindsey Ehrhardt",
+                "team": "Loyola University Maryland",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Katherine Fischer",
+                "team": "University of Denver",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Elizabeth George",
+                "team": "Princeton University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Samantha Giacolone",
+                "team": "University of Notre Dame",
+                "class": "Senior",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Kali Hartshorn",
+                "team": "University of Maryland",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Katie Hoeg",
+                "team": "University of North Carolina",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Maddie Howe",
+                "team": "University of Notre Dame",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Maggie Jackson",
+                "team": "University of Virginia",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Olivia Jenner",
+                "team": "Duke University",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Shannon Kavanagh",
+                "team": "University of Florida",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kerrigan Miller",
+                "team": "University of Southern California",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Izzy Scane",
+                "team": "Northwestern University",
+                "class": "Freshman",
+                "position": "Attack"
+            },
+            {
+                "name": "Caroline Sdanowich",
+                "team": "James Madison University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Kyla Sears",
+                "team": "Princeton University",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Taylor VanThof",
+                "team": "Loyola University Maryland",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Francesca Whitehurst",
+                "team": "Georgetown University",
+                "class": "Senior",
+                "position": "Midfield"
+            }
+        ],
+        "Third Team": [
+            {
+                "name": "Nonie Andersen",
+                "team": "Princeton University",
+                "class": "Senior",
+                "position": "Defense"
+            },
+            {
+                "name": "Erin Barry",
+                "team": "University of Pennsylvania",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Samantha Chenoweth",
+                "team": "Towson University",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Lizzie Colson",
+                "team": "University of Maryland",
+                "class": "Junior",
+                "position": "Defense"
+            },
+            {
+                "name": "Brennan Dwyer",
+                "team": "Northwestern University",
+                "class": "Sophomore",
+                "position": "Midfield"
+            },
+            {
+                "name": "Erica Evans",
+                "team": "University of Maryland",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Kathryn Giroux",
+                "team": "Dartmouth College",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Quintin Hoch-Bullen",
+                "team": "University of Denver",
+                "class": "Sophomore",
+                "position": "Attack"
+            },
+            {
+                "name": "Kelly Larkin",
+                "team": "United States Naval Academy",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Taylor Moreno",
+                "team": "University of North Carolina",
+                "class": "Sophomore",
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Alyssa Parrella",
+                "team": "Hofstra University",
+                "class": "Junior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Sydney Pirreca",
+                "team": "University of Florida",
+                "class": "Senior",
+                "position": "Midfield"
+            },
+            {
+                "name": "Hannah Powers",
+                "team": "Loyola University Maryland",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Gabby Rosenzweig",
+                "team": "University of Pennsylvania",
+                "class": "Junior",
+                "position": "Attack"
+            },
+            {
+                "name": "Caroline Steele",
+                "team": "University of Maryland",
+                "class": "Senior",
+                "position": "Attack"
+            },
+            {
+                "name": "Cara Trombetta",
+                "team": "University of Florida",
+                "class": "Junior",
+                "position": "Defense"
+            }
+        ]
+    }
+}

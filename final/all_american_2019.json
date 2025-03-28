@@ -1,0 +1,1109 @@
+{
+    "year": 2019,
+    "divisions": {
+        "D2": {
+            "division": "D2",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Eliza Bresler",
+                        "team": "Bentley University",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Bryanna Fazio",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Hannah George",
+                        "team": "Le Moyne College",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kallie German",
+                        "team": "Rollins College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Olivia Hayden",
+                        "team": "Colorado Mesa University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Hunter Isnardi",
+                        "team": "Mercy University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Samantha Keesey",
+                        "team": "Florida Southern College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kira Kolb",
+                        "team": "Mercyhurst University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Lafler",
+                        "team": "Limestone University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Raven Linton",
+                        "team": "University of New Haven",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Olivia McEntee",
+                        "team": "Le Moyne College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sarah Myres",
+                        "team": "Regis University (Colorado)",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kole Pollock",
+                        "team": "Adelphi University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Mackenzie Reh",
+                        "team": "University of New Haven",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sarah Reilly",
+                        "team": "Assumption University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Claire Swanson",
+                        "team": "University of Tampa",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Sami Barnett",
+                        "team": "West Chester University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Ally Blood",
+                        "team": "Queens University of Charlotte",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Chase Brokaw",
+                        "team": "Queens University of Charlotte",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Dani Bursinger",
+                        "team": "Florida Southern College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Cammy Case",
+                        "team": "Queens University of Charlotte",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Alison Johnson",
+                        "team": "Adelphi University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Erin Koehler",
+                        "team": "Colorado Mesa University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Alyssa Mallery",
+                        "team": "Long Island University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Krista Mitarotonda",
+                        "team": "East Stroudsburg University of Pennsylvania",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Tatyana Petteway",
+                        "team": "East Stroudsburg University of Pennsylvania",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Morgan Reader",
+                        "team": "Lindenwood University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Monica Sanna",
+                        "team": "Le Moyne College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Samantha Schiano",
+                        "team": "Florida Institute of Technology",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hanna Scott",
+                        "team": "Queens University of Charlotte",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maggie Stella",
+                        "team": "West Chester University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Lindsay Van Beck",
+                        "team": "Rollins College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Amber Feminella",
+                        "team": "Merrimack College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Chelsea Abreu",
+                        "team": "Adelphi University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Tatum Altman",
+                        "team": "West Chester University of Pennsylvania",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Anne Marie Ardito",
+                        "team": "New York Institute of Technology",
+                        "class": "Graduate Student",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Ally Burrows",
+                        "team": "Indiana University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Elle Crawford",
+                        "team": "Regis University (Colorado)",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Wendy Donier",
+                        "team": "Regis University (Colorado)",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Carly Fedorowski",
+                        "team": "Lindenwood University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Brianna Feldman",
+                        "team": "Long Island University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Riley McClure",
+                        "team": "University of Indianapolis",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Keagan Pontious",
+                        "team": "Seton Hill University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Molly Reinhart",
+                        "team": "West Chester University of Pennsylvania",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Lily Rizk",
+                        "team": "Rollins College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Emma Rufolo",
+                        "team": "East Stroudsburg University of Pennsylvania",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Nicki Stanco",
+                        "team": "Adelphi University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Carly Vaccaro",
+                        "team": "University of Tampa",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D3": {
+            "division": "D3",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Dakota Adamec",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Caitlin Anderson",
+                        "team": "Washington & Lee University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Hanna Ashby",
+                        "team": "University of Mary Washington",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Liza Barr",
+                        "team": "Gettysburg College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Nicole Clauter",
+                        "team": "York College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Eliza Denious",
+                        "team": "Bowdoin College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Meghan Fox",
+                        "team": "York College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Taylor Gretz",
+                        "team": "Rowan University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Maggie Hanzsche",
+                        "team": "Franklin & Marshall College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Abby Horst",
+                        "team": "Wesleyan University (Connecticut)",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Abby Manning",
+                        "team": "Wesleyan University (Connecticut)",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emma McDonagh",
+                        "team": "Middlebury College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Katie Miller",
+                        "team": "Bowdoin College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Addy Mitchell",
+                        "team": "Middlebury College",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Erin Nicholas",
+                        "team": "Middlebury College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Courtney Patterson",
+                        "team": "Gettysburg College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Caroline Sgaglione",
+                        "team": "Wesleyan University (Connecticut)",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Haley Tucker",
+                        "team": "Washington & Lee University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Hedy Veith",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Regan Cook",
+                        "team": "York College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Claire Dunbar",
+                        "team": "Amherst College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Jane Earley",
+                        "team": "Middlebury College",
+                        "class": "Freshman",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kara Finnerty",
+                        "team": "Bowdoin College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Games",
+                        "team": "Tufts University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Jane Goodspeed",
+                        "team": "Denison University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Allegra Grant",
+                        "team": "Wesleyan University (Connecticut)",
+                        "class": "Junior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Holly Hite",
+                        "team": "Meredith College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Devin Hursey",
+                        "team": "York College",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Martha Hutzell",
+                        "team": "Salisbury University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Megan Jackson",
+                        "team": "Franklin & Marshall College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Emily Kitchin",
+                        "team": "Franklin & Marshall College",
+                        "class": "Freshman",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Mackenzie Maguire",
+                        "team": "University of Mary Washington",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Hannah Marafioti",
+                        "team": "State University of New York at Geneseo",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Mekayla Montgomery",
+                        "team": "Hobart and William Smith Colleges",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kara Pooley",
+                        "team": "Hamilton College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Becca Russo",
+                        "team": "University of Scranton",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kelly Siebert",
+                        "team": "Amherst College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Annie Sullivan",
+                        "team": "Tufts University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Julia Albert",
+                        "team": "University of Mary Washington",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Miranda Chrone",
+                        "team": "The College of New Jersey",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sarah Culver",
+                        "team": "Christopher Newport University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erin Dugan",
+                        "team": "Catholic University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Jen Eck",
+                        "team": "Lebanon Valley College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alexandria Fitzpatrick",
+                        "team": "The College of New Jersey",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Corie Hack",
+                        "team": "Claremont McKenna-Harvey Mudd-Scripps Colleges",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erin Harvey",
+                        "team": "The College of New Jersey",
+                        "class": "Graduate Student",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Eva King",
+                        "team": "Colorado College",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Lexi Lenaghan",
+                        "team": "Babson College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Jess Lyons",
+                        "team": "Catholic University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Caroline Maxwell",
+                        "team": "Bowdoin College",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Leanne McCloskey",
+                        "team": "Montclair State University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kerry McKeever",
+                        "team": "Gettysburg College",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Maia Noyes",
+                        "team": "Amherst College",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sabrina Solow",
+                        "team": "Amherst College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alexis Strobel",
+                        "team": "Salisbury University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Cas Szwajkowski",
+                        "team": "Skidmore College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Molly Tice",
+                        "team": "St. John Fisher University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        },
+        "D1": {
+            "division": "D1",
+            "teams": {
+                "First Team": [
+                    {
+                        "name": "Andie Aldave",
+                        "team": "University of Notre Dame",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sam Apuzzo",
+                        "team": "Boston College",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Dempsey Arsenault",
+                        "team": "Boston College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Julia Braig",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jen Giles",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emily Hawryschuk",
+                        "team": "Syracuse University",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Ally Kennedy",
+                        "team": "Stony Brook University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Kenzie Kent",
+                        "team": "Boston College",
+                        "class": "Graduate Student",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Selena Lasota",
+                        "team": "Northwestern University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Elizabeth Miller",
+                        "team": "Boston College",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Sammy Mueller",
+                        "team": "University of Virginia",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Jamie Ortega",
+                        "team": "University of North Carolina",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Lindsey Ronbeck",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Livy Rosenzweig",
+                        "team": "Loyola University Maryland",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Megan Taylor",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    },
+                    {
+                        "name": "Emma Trenchard",
+                        "team": "University of North Carolina",
+                        "class": "Sophomore",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse First Team"
+                    }
+                ],
+                "Second Team": [
+                    {
+                        "name": "Lindsey Ehrhardt",
+                        "team": "Loyola University Maryland",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Katherine Fischer",
+                        "team": "University of Denver",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Elizabeth George",
+                        "team": "Princeton University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Samantha Giacolone",
+                        "team": "University of Notre Dame",
+                        "class": "Senior",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kali Hartshorn",
+                        "team": "University of Maryland",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Katie Hoeg",
+                        "team": "University of North Carolina",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maddie Howe",
+                        "team": "University of Notre Dame",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Maggie Jackson",
+                        "team": "University of Virginia",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Olivia Jenner",
+                        "team": "Duke University",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Shannon Kavanagh",
+                        "team": "University of Florida",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kerrigan Miller",
+                        "team": "University of Southern California",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Izzy Scane",
+                        "team": "Northwestern University",
+                        "class": "Freshman",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Caroline Sdanowich",
+                        "team": "James Madison University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Kyla Sears",
+                        "team": "Princeton University",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Taylor VanThof",
+                        "team": "Loyola University Maryland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    },
+                    {
+                        "name": "Francesca Whitehurst",
+                        "team": "Georgetown University",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Second Team"
+                    }
+                ],
+                "Third Team": [
+                    {
+                        "name": "Nonie Andersen",
+                        "team": "Princeton University",
+                        "class": "Senior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erin Barry",
+                        "team": "University of Pennsylvania",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Samantha Chenoweth",
+                        "team": "Towson University",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Lizzie Colson",
+                        "team": "University of Maryland",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Brennan Dwyer",
+                        "team": "Northwestern University",
+                        "class": "Sophomore",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Erica Evans",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kathryn Giroux",
+                        "team": "Dartmouth College",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Quintin Hoch-Bullen",
+                        "team": "University of Denver",
+                        "class": "Sophomore",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Kelly Larkin",
+                        "team": "United States Naval Academy",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Taylor Moreno",
+                        "team": "University of North Carolina",
+                        "class": "Sophomore",
+                        "position": "Goalkeeper",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Alyssa Parrella",
+                        "team": "Hofstra University",
+                        "class": "Junior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Sydney Pirreca",
+                        "team": "University of Florida",
+                        "class": "Senior",
+                        "position": "Midfield",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Hannah Powers",
+                        "team": "Loyola University Maryland",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Gabby Rosenzweig",
+                        "team": "University of Pennsylvania",
+                        "class": "Junior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Caroline Steele",
+                        "team": "University of Maryland",
+                        "class": "Senior",
+                        "position": "Attack",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    },
+                    {
+                        "name": "Cara Trombetta",
+                        "team": "University of Florida",
+                        "class": "Junior",
+                        "position": "Defender",
+                        "award": "2019 All-American Women's Lacrosse Third Team"
+                    }
+                ]
+            }
+        }
+    }
+}
